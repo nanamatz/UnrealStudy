@@ -13,5 +13,5 @@ UCLASS()
 class UNREALSTUDY_API AUnrealStudyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
-	
+	AUnrealStudyGameModeBase();
 };

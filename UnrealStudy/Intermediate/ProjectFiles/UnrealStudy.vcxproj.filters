@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UnrealStudy.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{7C8E2886-7064-4C4F-89D2-34DDEBE9F4E7}</UniqueIdentifier>
+      <UniqueIdentifier>{D3BB1976-DACD-4746-8930-33557AB04811}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UnrealStudy.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{C885B7F5-1B83-475E-8BA9-D0CEB3316516}</UniqueIdentifier>
+      <UniqueIdentifier>{962D9245-8B4F-42DC-94A3-FB99060E39CA}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UnrealStudy">
-      <UniqueIdentifier>{83EF0021-7188-4964-BAC4-B1666664CB2D}</UniqueIdentifier>
+      <UniqueIdentifier>{7C67F8D1-886D-4044-B61B-D2E41EA7C192}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UnrealStudy\MyCharacter.cpp">
+      <Filter>Source\UnrealStudy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealStudy\MyCharacter.h">
+      <Filter>Source\UnrealStudy</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UnrealStudy\UnrealStudy.Build.cs">
       <Filter>Source\UnrealStudy</Filter>
     </None>
