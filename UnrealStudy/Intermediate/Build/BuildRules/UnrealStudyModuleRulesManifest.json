@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Github\\UnrealStudy\\UnrealStudy\\Source\\UnrealStudy\\UnrealStudy.Build.cs",
+		"D:\\Github\\UnrealStudy\\UnrealStudy\\Source\\UnrealStudy.Target.cs",
+		"D:\\Github\\UnrealStudy\\UnrealStudy\\Source\\UnrealStudyEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

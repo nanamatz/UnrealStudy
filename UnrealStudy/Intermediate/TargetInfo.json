@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealStudy",
+			"Path": "D:\\Github\\UnrealStudy\\UnrealStudy\\Source\\UnrealStudy.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealStudyEditor",
+			"Path": "D:\\Github\\UnrealStudy\\UnrealStudy\\Source\\UnrealStudyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

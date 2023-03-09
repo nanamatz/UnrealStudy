@@ -1,0 +1,2 @@
+D:\Github\UnrealStudy\UnrealStudy\Intermediate\Build\Win64\UE4Editor\Development\UnrealStudy\Definitions.UnrealStudy.h
+D:\Github\UnrealStudy\UnrealStudy\Source\UnrealStudy\UnrealStudy.h
